@@ -1,2 +1,2 @@
-# serpiha.ngupi.com
+# serpihan.ngupi.com
 web
